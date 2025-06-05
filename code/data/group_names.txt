@@ -1,0 +1,12 @@
+Marketing
+Sales
+Finance
+Engineers
+Developers
+Managers
+Operations
+Lawyers
+Student
+Executives
+Procurement
+Human Resource

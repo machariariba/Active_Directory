@@ -1,0 +1,31 @@
+{
+    "domain": "xyz.com",
+    "groups": [
+        {
+            "name": "Employees"
+        }
+    ],
+    "users": [
+        {
+            "name": "John Hammond",
+            "password": "anythingcanbepassword",
+            "groups": [
+                "Employees"
+            ]
+        },
+        {
+            "name": "Alex Rodri",
+            "password": "Password556",
+            "groups": [
+                "Employees"
+            ]
+        },
+        {
+            "name": "Bradley Cooper",
+            "password": "P@sswordABD",
+            "groups": [
+                "Employees"
+            ]
+        }
+    ]
+}

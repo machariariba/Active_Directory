@@ -1,0 +1,137 @@
+{
+  "Users": [
+    {
+      "Name": "Hannah Sharp",
+      "Password": "natalie",
+      "Group": "Human Resource"
+    },
+    {
+      "Name": "Sarah Kerr",
+      "Password": "jessica",
+      "Group": "Managers"
+    },
+    {
+      "Name": "Christian Thomson",
+      "Password": "orlando",
+      "Group": "Developers"
+    },
+    {
+      "Name": "Connor Churchill",
+      "Password": "daniela",
+      "Group": "Engineers"
+    },
+    {
+      "Name": "Edward Roberts",
+      "Password": "diamond",
+      "Group": "Student"
+    },
+    {
+      "Name": "Robert Manning",
+      "Password": "chicken",
+      "Group": "Sales"
+    },
+    {
+      "Name": "Angela Hemmings",
+      "Password": "brandon",
+      "Group": "Human Resource"
+    },
+    {
+      "Name": "Katherine Manning",
+      "Password": "eduardo",
+      "Group": "Executives"
+    },
+    {
+      "Name": "Dorothy Wallace",
+      "Password": "jasmine",
+      "Group": "Lawyers"
+    },
+    {
+      "Name": "Dan Black",
+      "Password": "corazon",
+      "Group": "Managers"
+    },
+    {
+      "Name": "Charles Wallace",
+      "Password": "friends",
+      "Group": "Finance"
+    },
+    {
+      "Name": "Joe Allan",
+      "Password": "pokemon",
+      "Group": "Sales"
+    },
+    {
+      "Name": "Yvonne Jones",
+      "Password": "anthony",
+      "Group": "Executives"
+    },
+    {
+      "Name": "Olivia Ellison",
+      "Password": "samsung",
+      "Group": "Finance"
+    },
+    {
+      "Name": "Isaac Simpson",
+      "Password": "love123",
+      "Group": "Lawyers"
+    },
+    {
+      "Name": "Nathan Campbell",
+      "Password": "michael",
+      "Group": "Human Resource"
+    },
+    {
+      "Name": "Dylan Parsons",
+      "Password": "flowers",
+      "Group": "Lawyers"
+    },
+    {
+      "Name": "Victoria Peake",
+      "Password": "babyboy",
+      "Group": "Engineers"
+    },
+    {
+      "Name": "Chloe Gill",
+      "Password": "monkey1",
+      "Group": "Finance"
+    },
+    {
+      "Name": "Emma Clark",
+      "Password": "claudia",
+      "Group": "Marketing"
+    }
+  ],
+  "Groups": [
+    {
+      "Name": "Human Resource"
+    },
+    {
+      "Name": "Finance"
+    },
+    {
+      "Name": "Executives"
+    },
+    {
+      "Name": "Managers"
+    },
+    {
+      "Name": "Sales"
+    },
+    {
+      "Name": "Developers"
+    },
+    {
+      "Name": "Student"
+    },
+    {
+      "Name": "Marketing"
+    },
+    {
+      "Name": "Engineers"
+    },
+    {
+      "Name": "Lawyers"
+    }
+  ],
+  "Domain": "xyz.com"
+}
